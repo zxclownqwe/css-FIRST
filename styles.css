@@ -1,0 +1,50 @@
+body{
+    background-color: #f1f1f1;
+    color: #0f141e;
+    font-size: 16;
+    font-weight: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    color: rgb(16, 53, 53) ;
+    text-decoration: none;  
+}
+a:hover{
+    text-decoration: line-through;
+}
+a :active{
+    color: blueviolet;
+}
+a :visited{
+    color: rgb(3, 32, 32);
+}
+.vili{
+    border-radius: 17%;
+    box-shadow: 6 px 6 px 14px rgba(0, 0, 0, 0,25);
+}
+
+.info p{
+    color: #86898f;
+}
+
+.cont{
+    margin: auto;
+}
+.anar{
+   border: 6px  solid  #ffe5e5;
+   background: #fff9dc;
+   border-radius: 25px;
+}
+.gh{
+    background: #e5ffe7;
+    border-radius: 25px;
+}
+.qwe{
+    border-radius: 25px;
+    background: #ffe5e5  ;
+}
+.btn{
+    background: #0f141e;
+    color: #fff9dc;
+    border-top: 10px;
+}
